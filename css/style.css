@@ -1,0 +1,19 @@
+body{
+  margin-top:10px;
+  background-color:black;
+  margin-bottom:2em;
+}
+#info{
+  font-size: .75em;
+  color: #878b91;
+}
+
+#svgScore{
+  display: block;
+  margin: auto;
+}
+
+#svgGameOver{
+  display: block;
+  margin: auto;
+}
